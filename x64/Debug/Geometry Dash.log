@@ -1,0 +1,3 @@
+﻿  map.cpp
+C:\Users\qdese\source\repos\Geometry Dash\Geometry Dash\map.cpp(39,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Geometry Dash.vcxproj -> C:\Users\qdese\source\repos\Geometry Dash\x64\Debug\Geometry Dash.exe
